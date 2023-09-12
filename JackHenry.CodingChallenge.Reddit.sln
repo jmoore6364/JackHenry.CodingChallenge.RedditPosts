@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JackHenry.CodingChallenge.Reddit", "JackHenry.CodingChallenge.Reddit\JackHenry.CodingChallenge.Reddit.csproj", "{1C26032E-B2BC-46BE-BE7C-0C99ED2E317C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JackHenry.CodingChallenge.Reddit.Tests", "JackHenry.CodingChallenge.Reddit.Tests\JackHenry.CodingChallenge.Reddit.Tests.csproj", "{7AC1A297-9A5E-440F-A743-4ED8BD225A27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C26032E-B2BC-46BE-BE7C-0C99ED2E317C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C26032E-B2BC-46BE-BE7C-0C99ED2E317C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C26032E-B2BC-46BE-BE7C-0C99ED2E317C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C26032E-B2BC-46BE-BE7C-0C99ED2E317C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC1A297-9A5E-440F-A743-4ED8BD225A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC1A297-9A5E-440F-A743-4ED8BD225A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC1A297-9A5E-440F-A743-4ED8BD225A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC1A297-9A5E-440F-A743-4ED8BD225A27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD49E1EB-B36F-4C02-A74F-F7F3C9D60F38}
+	EndGlobalSection
+EndGlobal
